@@ -1,0 +1,33 @@
+#
+# NBTjs
+# a library for opening NBT files
+#
+# Sources and Links 
+#
+
+	- NBT Documentation
+
+		- Basic documentation of the NBT format version 19133
+			http://minecraft.gamepedia.com/NBT_format
+
+		- Original first documentation of the NBT format version 19132
+			http://web.archive.org/web/20110723210920/http://www.minecraft.net/docs/NBT.txt
+
+		- Additional documentation of the NBT format
+			http://wiki.vg/NBT
+
+
+	- NBT working examples
+
+		- Awesome online webNBT file edit
+			https://irath96.github.io/webNBT/
+			https://github.com/iRath96/webNBT
+
+
+	- External Javascript Libraries Used
+
+		- Big.js (Used for calculating long integers in javascript)
+			https://github.com/MikeMcl/big.js/
+
+		- Binary Parser
+			http://jsfromhell.com/classes/binary-parser
